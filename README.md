@@ -6,7 +6,8 @@ How to use
 If you have python installed you can download the .py file and run the script. 
 If you do not have python installed you can download the .exe file and to run it.
 
-Once you download and run the program a file explorer will be opened so you can choose the wav file you want to convert.
+Once you download and run the program a file explorer will be opened so you can choose the wav file you want to convert (The file explorer can take up to around 5-10 seconds to pop up so be patient).
+
 This program should work with all bit depths of wave files. I have only tested 16 but I think it should work for 8, 16, 24 and 32.
 After you choose the file a command prompt will ask you for (all inputs need to be positive integer values:
 
