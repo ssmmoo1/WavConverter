@@ -16,6 +16,8 @@ The Target Sampling rate - This is the sampling rate you want the converted file
 
 The size of the sound - Type a positive integer value that you want the length of the song to be divided by. Example if you want the first half of the song type 2. This will divide the length by 2 and stop the program halfway through. If you want the first tenth of a song then type 10. You can type any positive integer value >= 1.
 
+The program will then run and once the command prompt closes there will be  a text file call "Converted..." in the same folder as the originial wav file. 
+
 If you find any bugs let me know.
 
 
