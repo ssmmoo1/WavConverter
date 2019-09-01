@@ -1,7 +1,12 @@
 # WavConverter
-Converts wave files into an array of unsigned integers for any size DAC
 
-How to use
+### This program converts wave files from signed to unsigned integers to work with a custom DAC
+
+### Purpose:
+
+I wrote this program to convert any wav file into a C array that would work with a custom DAC that was built and programmed for a class project. The DAC driver only used unsigned integers and the typical wav format uses signed integer so the program shifts the data points up to be all positive integers. The DAC I built was only 6 bit so this program also needed to be able to convert the wav file to a lower bit depth. 
+
+### How to use
 
 If you have python installed you can download the .py file and run the script. 
 If you do not have python installed you can download the .exe file and to run it.
